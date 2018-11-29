@@ -1,3 +1,11 @@
 body {
   height: 100vh;
 }
+
+.acs-primary {
+  color: #284761;
+}
+
+.acs-primary-background {
+  background-color: #284761;
+}

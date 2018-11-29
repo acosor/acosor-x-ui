@@ -3,6 +3,7 @@ import SignIn from './views/SignIn.vue';
 
 const routings: RouteConfig[] = [
   {
+    name: 'signin',
     path: 'signin',
     component: SignIn,
   },
